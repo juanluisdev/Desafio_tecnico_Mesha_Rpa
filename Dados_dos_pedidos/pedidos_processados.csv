@@ -1,0 +1,4 @@
+Data,Nome Cliente,Produtos,Total
+2024-12-17 13:11:19,João,"{'Produto_1': 2, 'Produto_2': 1}",30
+2024-12-17 13:11:19,Maria,"{'Produto_3': 5, 'Produto_1': 8}",130
+2024-12-17 13:11:19,Carlos,{'Produto_2': 50},0
